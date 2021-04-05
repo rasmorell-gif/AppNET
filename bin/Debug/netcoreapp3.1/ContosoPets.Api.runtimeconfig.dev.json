@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/rsantosmorel/.dotnet/store/|arch|/|tfm|",
+      "/home/rsantosmorel/.nuget/packages"
+    ]
+  }
+}
